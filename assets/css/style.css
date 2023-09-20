@@ -94,7 +94,7 @@ main figure figcaption {
 
 #contact {
   background-color: var(--light-primary-color);
-  margin: 0 auto;
+  margin-top: 20px;
   padding: 10px 0;
   text-align: center;
 }
