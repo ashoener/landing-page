@@ -60,9 +60,7 @@ body {
 
 .navbar-content .navbar-links li {
   display: inline-flex;
-  /* margin: 0 10px; */
   font-size: 20px;
-  /* background-color: white; */
 }
 
 .navbar-content .navbar-links li a {
@@ -96,14 +94,12 @@ main figure figcaption {
 
 #contact {
   background-color: var(--light-primary-color);
-  /* max-width: 30vw; */
   margin: 0 auto;
   padding: 10px 0;
   text-align: center;
 }
 
 #contact * {
-  /* margin: 0 auto; */
   margin-top: 5px;
 }
 
@@ -131,9 +127,6 @@ footer {
   background-color: var(--primary-color);
   position: relative;
   border-top: 10px solid var(--accent-color);
-  /* top: 100%; */
-  /* top: 0; */
-  /* transform: translateY(-60px); */
   margin-top: auto;
   text-align: center;
 }
